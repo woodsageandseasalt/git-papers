@@ -2,6 +2,7 @@ Blood is Delicious
 
 By. Vlad Dracula
 
-Being able to drink blood is so much fun.
+Introduction : 
+Being able to drink blood is so much fun.[1, Dracula]
 Vampires like blood.
 Another line added.
