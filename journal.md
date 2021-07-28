@@ -14,3 +14,5 @@ Here we show a scatter plot of blood thickness
 
 Figure 1. Scatter Plot
 
+Conclusions: Blood is good
+
