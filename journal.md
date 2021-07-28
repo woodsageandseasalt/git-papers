@@ -1,6 +1,6 @@
-Blood is Delicious
+Human blood is Delicious
 
-By. Vlad Dracula
+By. Vlad Dracula, WJohn
 
 Introduction : 
 Being able to drink blood is so much fun.[1, Dracula]
